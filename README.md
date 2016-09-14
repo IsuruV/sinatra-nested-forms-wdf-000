@@ -35,3 +35,41 @@ The word in quotes after fill_in needs to be set as an ID in the form. This is b
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-nested-forms' title='Sinatra Nested Forms Lab: Pirates!'>Sinatra Nested Forms Lab: Pirates!</a> on Learn.co and start learning to code for free.</p>
+
+
+
+
+
+
+<!-- <h1>Display your Pirate here</h1>
+  <p>
+    <%= @pirate.name %>
+  </p>
+  <p>
+    <%= @pirate.weight %>
+  </p>
+  <p>
+    <%= @pirate.height %>
+  </p>
+
+<h2>Display your first ship here</h2>
+  <p>
+    <%= @ship1.name %>
+  </p>
+  <p>
+    <%= @ship1.type %>
+  </p>
+  <p>
+    <%= @ship1.booty %>
+  </p>
+
+<h2>Display your second ship here</h2>
+  <p>
+    <%= @ship2.name %>
+  </p>
+  <p>
+    <%= @ship2.type %>
+  </p>
+  <p>
+    <%= @ship2.booty %>
+  </p> -->
